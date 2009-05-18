@@ -1,6 +1,5 @@
-So I have a couple posts sitting in the wings, but I want a few people to
-review them before I post those. So I thought I'd take a stab at showing off a
-bot framework I'd written at the hackathon during the first Frozen Perl.
+I thought I'd take a stab at showing off a bot framework I'd written at the
+hackathon during the first Frozen Perl.
 
 The framework is known as either `Adam` or `Moses` depending on who you're
 talking to. `Adam` lays all the framework and `Moses` brings in the
