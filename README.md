@@ -115,4 +115,4 @@ repository information.
 [3]: http://develop.github.com/
 [4]: http://search.cpan.org/dist/POE-Component-Github/lib/POE/Component/Github.pm
 [5]: http://search.cpan.org/dist/POE-Component-IRC/lib/POE/Component/IRC.pm
-[5]: http://search.cpan.org/dist/MooseX-POE/lib/MooseX/POE.pm
+[6]: http://search.cpan.org/dist/MooseX-POE/lib/MooseX/POE.pm
